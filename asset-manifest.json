@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/redoocks/static/js/main.2c635e14.chunk.js",
-    "main.js.map": "/redoocks/static/js/main.2c635e14.chunk.js.map",
-    "runtime-main.js": "/redoocks/static/js/runtime-main.84e55f18.js",
-    "runtime-main.js.map": "/redoocks/static/js/runtime-main.84e55f18.js.map",
-    "static/js/2.702ea1f8.chunk.js": "/redoocks/static/js/2.702ea1f8.chunk.js",
-    "static/js/2.702ea1f8.chunk.js.map": "/redoocks/static/js/2.702ea1f8.chunk.js.map",
-    "index.html": "/redoocks/index.html",
-    "static/js/2.702ea1f8.chunk.js.LICENSE.txt": "/redoocks/static/js/2.702ea1f8.chunk.js.LICENSE.txt"
+    "main.js": "/hooksapi/static/js/main.2c635e14.chunk.js",
+    "main.js.map": "/hooksapi/static/js/main.2c635e14.chunk.js.map",
+    "runtime-main.js": "/hooksapi/static/js/runtime-main.5865a865.js",
+    "runtime-main.js.map": "/hooksapi/static/js/runtime-main.5865a865.js.map",
+    "static/js/2.7cff244b.chunk.js": "/hooksapi/static/js/2.7cff244b.chunk.js",
+    "static/js/2.7cff244b.chunk.js.map": "/hooksapi/static/js/2.7cff244b.chunk.js.map",
+    "index.html": "/hooksapi/index.html",
+    "static/js/2.7cff244b.chunk.js.LICENSE.txt": "/hooksapi/static/js/2.7cff244b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.84e55f18.js",
-    "static/js/2.702ea1f8.chunk.js",
+    "static/js/runtime-main.5865a865.js",
+    "static/js/2.7cff244b.chunk.js",
     "static/js/main.2c635e14.chunk.js"
   ]
 }
