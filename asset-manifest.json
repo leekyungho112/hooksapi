@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/github.io/hooksapi/static/js/main.2c635e14.chunk.js",
+    "main.js.map": "/github.io/hooksapi/static/js/main.2c635e14.chunk.js.map",
+    "runtime-main.js": "/github.io/hooksapi/static/js/runtime-main.664decb0.js",
+    "runtime-main.js.map": "/github.io/hooksapi/static/js/runtime-main.664decb0.js.map",
+    "static/js/2.1b9b1a03.chunk.js": "/github.io/hooksapi/static/js/2.1b9b1a03.chunk.js",
+    "static/js/2.1b9b1a03.chunk.js.map": "/github.io/hooksapi/static/js/2.1b9b1a03.chunk.js.map",
+    "index.html": "/github.io/hooksapi/index.html",
+    "static/js/2.1b9b1a03.chunk.js.LICENSE.txt": "/github.io/hooksapi/static/js/2.1b9b1a03.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.664decb0.js",
+    "static/js/2.1b9b1a03.chunk.js",
+    "static/js/main.2c635e14.chunk.js"
+  ]
+}
